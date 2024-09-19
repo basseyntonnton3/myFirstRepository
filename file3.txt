@@ -1,2 +1,2 @@
 This is file3.txt 
-This is changes on remote repositor 
+This is changes on remote repository 
