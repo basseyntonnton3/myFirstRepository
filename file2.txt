@@ -1,2 +1,3 @@
 This is file2.txt
 There is a new Nigeria  
+Nigeria is the hope of Africa (from remote repository)  
